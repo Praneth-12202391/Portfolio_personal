@@ -1,2 +1,2 @@
 # portfolio-website-praneeth
-portfolio-website-code-with-praneet
+portfolio-website-code-with-praneeth
